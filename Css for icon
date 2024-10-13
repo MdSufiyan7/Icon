@@ -1,0 +1,19 @@
+.icon-bar{
+  background-color:darkcyan;
+  width: fit-content;
+  
+}
+.icon-bar a{
+  width: fit-content;
+  display: block;
+  text-align:center;
+  padding: 10px;
+  color:white;
+  font-size: 30px;
+}
+.icon-bar a:hover{
+  background-color: rgb(139, 139, 229);
+}
+.active{
+  background-color: yellowgreen;
+}
